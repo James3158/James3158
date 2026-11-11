@@ -1,7 +1,7 @@
 # Softwareprojekte aus Bremen
 
 Ich bin IT-Auszubildender im ersten Lehrjahr mit Schwerpunkt Softwareentwicklung.
-Ich möchte in die Anwendungsentwicklung wechseln und entwickle eigene Lernprojekte.
+Ich entwickle eigene Software- und Lernprojekte.
 
 ## Öffentliche Projekte
 
